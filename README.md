@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+お仕事探し中です👀
+
+Qiitaは[こちら](https://qiita.com/akrha)
+
+
 <!--
 **akrha/akrha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
