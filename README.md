@@ -2,7 +2,7 @@
 
 お仕事探し中です👀
 
-Qiitaは[こちら](https://qiita.com/akrha)
+Qiitaは👉[こちら](https://qiita.com/akrha)👈
 
 
 <!--
