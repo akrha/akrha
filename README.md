@@ -2,7 +2,9 @@
 
 お仕事探し中です👀
 
-Qiitaは👉[こちら](https://qiita.com/akrha)👈
+💡Qiitaは👉[こちら](https://qiita.com/akrha)👈
+
+📃職務経歴書は👉[こちら](https://github.com/akrha/resume/blob/main/resume.pdf)👈
 
 
 <!--
