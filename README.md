@@ -2,8 +2,7 @@
 
 💡Qiitaは👉[こちら](https://qiita.com/akrha)👈
 
-📃職務経歴書は👉[こちら](https://github.com/akrha/resume/blob/main/resume.pdf)👈
-
+💡ブログは👉[こちら](https://akrha.hatenablog.com/)👈
 
 <!--
 **akrha/akrha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
