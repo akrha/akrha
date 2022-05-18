@@ -1,6 +1,6 @@
 ### 😄 Hello World 👋
 
-💡English resume is 👉[Here](https://github.com/akrha/resume/blob/main/resume-en.md)👈
+💡English resume is 👉[Here](https://www.cakeresume.com/akrha)👈
 
 💡Qiitaは👉[こちら](https://qiita.com/akrha)👈
 
