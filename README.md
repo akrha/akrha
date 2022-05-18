@@ -1,5 +1,7 @@
 ### 😄 Hello World 👋
 
+💡English resume is 👉[Here](https://github.com/akrha/resume/blob/main/resume-en.md)👈
+
 💡Qiitaは👉[こちら](https://qiita.com/akrha)👈
 
 💡ブログは👉[こちら](https://akrha.hatenablog.com/)👈
