@@ -1,7 +1,5 @@
 ### 😄 Hello World 👋
 
-💡English resume is 👉[Here](https://www.cakeresume.com/akrha)👈
-
 💡Qiitaは👉[こちら](https://qiita.com/akrha)👈
 
 💡ブログは👉[こちら](https://akrha.hatenablog.com/)👈
